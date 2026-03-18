@@ -35,8 +35,8 @@ To perform bivariate analysis on COVID-19 data and study the relationship betwee
 
 **Program**
 
-**# Your Name** gunasundari B
-**# Your Reg No.**212224040093
+Your Name  gunasundari B
+Your Reg No.212224040093
 
     import pandas as pd
     import matplotlib.pyplot as plt
